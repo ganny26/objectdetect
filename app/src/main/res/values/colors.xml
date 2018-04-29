@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00cc66</color>
+    <color name="colorPrimaryDark">#00cc66</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGreen">#00cc66</color>
+    <color name="profile_bg">#00cc66</color>
+    <color name="ingredient_chip">#009966</color>
+
+</resources>
